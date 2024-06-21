@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Mini_ProjetDonetCore.Models.Voiture>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.matricule)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.date_sortie)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.designation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.couleur)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.matricule)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.date_sortie)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.designation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.couleur)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdVoi">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdVoi">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdVoi">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,52 @@
+﻿@model Mini_ProjetDonetCore.Models.Location
+
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Location</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Voiture" class="control-label"></label>
+                @Html.DropDownListFor(m => m.IdVoi, (IEnumerable<SelectListItem>)ViewBag.voitures, "Choisir une voiture", new { @class = "form-control" })
+
+                <span asp-validation-for="Voiture" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="client" class="control-label"></label>
+                @Html.DropDownListFor(m => m.IdCl, (IEnumerable<SelectListItem>)ViewBag.clients, "choisir un Client", new { @class = "form-control" })
+
+                <span asp-validation-for="client" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="dateLoc" class="control-label"></label>
+                <input type="date" asp-for="dateLoc" class="form-control" />
+                <span asp-validation-for="dateLoc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="dateRetour" class="control-label"></label>
+                <input type="date" asp-for="dateRetour" class="form-control" />
+                <span asp-validation-for="dateRetour" class="text-danger"></span>
+            </div>  
+            
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

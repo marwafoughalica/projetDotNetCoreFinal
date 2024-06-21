@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Mini-ProjetDonetCore.props" />
+</Project>

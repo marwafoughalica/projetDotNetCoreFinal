@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\views\\locations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:views\\locations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\views\\locations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:views\\locations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\views\\locations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:views\\locations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|c:\\users\\marwa-pc\\source\\repos\\mini-projetdonetcore\\views\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06BFA4AA-E2C4-418D-874D-698218556F0D}|Mini-ProjetDonetCore.csproj|solutionrelative:views\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T18:48:09.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:47:33.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:03:01.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:00:58.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:54:19.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Locations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Locations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Locations\\Index.cshtml",
+              "RelativeToolTip": "Views\\Locations\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T18:32:35.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LocationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Controllers\\LocationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LocationsController.cs",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Controllers\\LocationsController.cs",
+              "RelativeToolTip": "Controllers\\LocationsController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEYAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:59:46.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Locations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Locations\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Locations\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Locations\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T17:59:28.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Locations\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Locations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Locations\\Create.cshtml",
+              "RelativeToolTip": "Views\\Locations\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T17:59:13.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Shared\\_Menu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Menu.cshtml",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Shared\\_Menu.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Menu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T17:57:43.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T11:28:55.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Marwa-pc\\source\\repos\\Mini-ProjetDonetCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T11:26:38.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

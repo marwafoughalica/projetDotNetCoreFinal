@@ -1,0 +1,42 @@
+﻿@model Mini_ProjetDonetCore.Models.Location
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Location</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Voiture.matricule)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Voiture.matricule)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.client.name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.client.name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.dateLoc)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.dateLoc)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.dateRetour)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.dateRetour)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdLoc">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
